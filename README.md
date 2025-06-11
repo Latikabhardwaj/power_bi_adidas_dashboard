@@ -24,11 +24,11 @@ Designed an interactive Adidas Sales Dashboard in Power BI using Power Query Edi
 * Product
 
 # Tools & Skills Used
-Power BI Desktop
-Data transformation using Power Query
-Power Query Editor 
-Slicers & Filters
-Custom Visuals
+* Power BI Desktop
+* Data transformation using Power Query
+* Power Query Editor 
+* Slicers & Filters
+* Custom Visuals
 
 # Snapshot of Dashbord
 https://github.com/Latikabhardwaj/power_bi_adidas_dashboard/blob/main/Snapshot_adidas_dashboard.png
